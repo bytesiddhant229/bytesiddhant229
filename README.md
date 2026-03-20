@@ -6,7 +6,7 @@
 
 ☁️ Cloud Computing Enthusiast | FastAPI • Django • Node.js
 
----
+
 
 ## 🚀 About Me
 
@@ -23,7 +23,6 @@
 * **Database:** MongoDB
 * **Cloud & Tools:** Docker, Git, AWS, DigitalOcean
 
----
 
 ## 📌 Projects
 
@@ -40,7 +39,7 @@ An OCR API designed to extract data from receipts
 * Handles receipt image processing
 * Focus on accuracy for real-world bills
 * Built with EasyOCR + FastAPI
----
+
 
 ## 📫 Connect With Me
 
