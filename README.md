@@ -1,16 +1,50 @@
-## Hi there 👋
 
-<!--
-**bytesiddhant229/bytesiddhant229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👋 Hello, I'm Siddhant
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 3rd Year ENTC Student at SIT, Pune
+
+☁️ Cloud Computing Enthusiast | FastAPI • Django • Node.js
+
+---
+
+## 🚀 About Me
+
+* 🔭 Building scalable backend & cloud-based applications
+* 🌱 Exploring cloud infrastructure and deployment
+* ⚡ Interested in designing real-world systems
+
+---
+
+## 🛠️ Tech Stack
+
+* **Backend:** FastAPI, Django, Node.js
+* **Frontend:** React
+* **Database:** MongoDB
+* **Cloud & Tools:** Docker, Git, AWS, DigitalOcean
+
+---
+
+## 📌 Projects
+
+### ☁️ Mini Cloud Drive
+
+A simple cloud storage app like Google Drive
+
+* Built with FastAPI + React + MongoDB
+
+### 🧾 Racibo OCR API
+
+An OCR API designed to extract data from receipts
+
+* Handles receipt image processing
+* Focus on accuracy for real-world bills
+* Built with EasyOCR + FastAPI
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: *(https://www.linkedin.com/in/siddhantbedre/)*
+
+---
+
